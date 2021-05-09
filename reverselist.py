@@ -1,0 +1,5 @@
+lst=[1,2,3,4,5]
+lst.reverse()
+print(lst)
+lst.pop()
+print(lst)
